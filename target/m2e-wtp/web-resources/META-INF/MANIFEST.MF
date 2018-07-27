@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: My Starter Project
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: IEA
+Build-Jdk: 1.8.0_172
+Created-By: Maven Integration for Eclipse
+
